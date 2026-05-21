@@ -1,10 +1,10 @@
 Linux UART Temperature Logger
 
-A C program that reads temperature data from an STM32 microcontroller 
+A project implemented in C for reading temperature data from an STM32 microcontroller 
 via UART serial communication and logs timestamped readings to a file on Linux.
 
 1. Hardware
-- STM32F1 microcontroller
+- STM32F103 microcontroller
 - DS18B20 temperature sensor (1-Wire protocol)
 - USB to serial connection
 
