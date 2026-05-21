@@ -8,11 +8,8 @@ via UART serial communication and logging timestamped readings to a file on Linu
 - DS18B20 temperature sensor (1-Wire protocol)
 - USB to serial connection
 
-2. Build
-  make
+2. Build - make
 
-3. Run
-  sudo ./uart_logger
+3. Run - sudo ./uart_logger
 
-4. Output
-  Logs temperature readings with timestamps to uart_temp.log
+4. Output - Logs temperature readings with timestamps to uart_temp.log
